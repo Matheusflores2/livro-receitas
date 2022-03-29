@@ -5,3 +5,5 @@
 Olá ! Bem vindo ao meu Libro de Receitas :wave:
 
 - Strogonoff de Frango
+- Pavê
+
